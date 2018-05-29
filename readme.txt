@@ -1,1 +1,1 @@
-Codificador e descodificador de base 32
+Codificador e decodificador de base 32
